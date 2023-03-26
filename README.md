@@ -1,5 +1,5 @@
 # Paraphrase-detection-in-NLP
-Paraphrase detection in NLP
+
 
 The following code file is an accompaniment to the article titled "Paraphrasing in NLP".
 
